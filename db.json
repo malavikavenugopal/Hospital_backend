@@ -1,0 +1,171 @@
+{
+  "patients": [
+    {
+      "fname": "Malavika",
+      "lname": "V",
+      "dob": "2023-11-18",
+      "email": "malavikavenu914@gmail.com",
+      "address": "Chaithanya",
+      "phone": "09072554506",
+      "state": "Kerala",
+      "pin": "680586",
+      "id": 1
+    }
+  ],
+  "doctors": [
+    {
+      "name": "Jhon Peter",
+      "dept": "Dermatology",
+      "url": "https://img.freepik.com/free-photo/smiling-doctor-with-strethoscope-isolated-grey_651396-974.jpg?w=996&t=st=1699856301~exp=1699856901~hmac=fce22c8e5569c59477e379068090bc58e6eefd243d2cba3ab563637f2e17ffbc",
+      "edu": "MBBS,MD",
+      "id": 1
+    },
+    {
+      "name": "Leena N",
+      "dept": "Gynecologic Oncology Division",
+      "url": "https://img.freepik.com/free-photo/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture_409827-254.jpg?w=996&t=st=1699859428~exp=1699860028~hmac=da5cd964412d72afd52e36acd4ddbf281384a4b95bc5c10feb1e0063f58e9e08",
+      "edu": "MBBS,MS",
+      "id": 2
+    },
+    {
+      "name": "Ajith T",
+      "dept": "Adult cardiology",
+      "url": "https://img.freepik.com/free-photo/smiling-touching-arms-crossed-room-hospital_1134-799.jpg?w=996&t=st=1699859480~exp=1699860080~hmac=4f7263f385cc28bd4c1a5e15e095fa088ef77816360fcb6fbc106e5a20d0be7f",
+      "edu": "MBBS,PGDGM",
+      "id": 3
+    },
+    {
+      "name": "Ajay Sasidharan",
+      "dept": "Hair Transplant",
+      "url": "https://img.freepik.com/free-photo/portrait-mature-therapist-sitting-table-looking-camera_1098-18156.jpg?w=996&t=st=1699859658~exp=1699860258~hmac=fcaed1bf5c4f049b225d38082da07e4b8094d08c74214c02709cb355ebd21fdc",
+      "edu": "MBBS,MS",
+      "id": 4
+    },
+    {
+      "name": "Akash U",
+      "dept": "General Paediatrics",
+      "url": "https://img.freepik.com/free-photo/young-handsome-physician-medical-robe-with-stethoscope_1303-17814.jpg?w=996&t=st=1699859813~exp=1699860413~hmac=381c5d184a6d6ef477aae1ebf58dff8e44e31fd210863296da2669ef4c732980",
+      "edu": "MBBS,MD",
+      "id": 5
+    },
+    {
+      "name": "Rahul U",
+      "dept": "General Paediatrics",
+      "url": "https://img.freepik.com/free-photo/doctor-with-his-arms-crossed-white-background_1368-5789.jpg?w=740&t=st=1699860635~exp=1699861235~hmac=e7072a0aa8406bb531b61a2cb06093171d89493ae02b2ec644ec016822e57efc",
+      "edu": "MBBS",
+      "id": 6
+    }
+  ],
+  "department": [
+    {
+      "departmentname": "Hair Transplant",
+      "description": "Hair transplant program started  in 2005 and in 2019 a dedicated operating room for hair transplantation was started. More than 1000 hair transplants have been performed here with good results.",
+      "contact": "0467-2739849",
+      "services": "Immediate Hair Implantation Technique,Hospital based hair transplant",
+      "doctors": [
+        {
+          "name": "Ajay Sasidharan",
+          "dept": "Hair Transplant",
+          "url": "https://img.freepik.com/free-photo/portrait-mature-therapist-sitting-table-looking-camera_1098-18156.jpg?w=996&t=st=1699859658~exp=1699860258~hmac=fcaed1bf5c4f049b225d38082da07e4b8094d08c74214c02709cb355ebd21fdc",
+          "edu": "MBBS,MS",
+          "id": 4
+        }
+      ],
+      "id": 4
+    },
+    {
+      "departmentname": "General Paediatrics",
+      "description": "The department of general paediatrics provides comprehensive outpatient and inpatient care for sick infants and children up to the age of 18 years. The division attempts to provide a “medical home” concept in the care of children.  ",
+      "contact": "0458-236784",
+      "services": "Paediatric Outpatient Clinic (OPD) , Diagnostic Clinic , General Paediatric inpatient unit , Immunization Clinic",
+      "doctors": [
+        {
+          "name": "Akash U",
+          "dept": "General Paediatrics",
+          "url": "https://img.freepik.com/free-photo/young-handsome-physician-medical-robe-with-stethoscope_1303-17814.jpg?w=996&t=st=1699859813~exp=1699860413~hmac=381c5d184a6d6ef477aae1ebf58dff8e44e31fd210863296da2669ef4c732980",
+          "edu": "MBBS,MD",
+          "id": 5
+        }
+      ],
+      "id": 6
+    },
+    {
+      "departmentname": "Gynecologic Oncology Division",
+      "description": "Division of Gynecologic Oncology at Centre for Comprehensive Women’s Healthcare, Elite Care Clinic is one of the top ranked programs in Gynecologic Oncology in the country. Surgical experts here offer integrated approach to gynecologic cancers and also for complex benign gynecologic diseases doing conventional surgeries to surgeries using the latest cutting-edge technologies including robotic surgery.",
+      "contact": "0426-2830921",
+      "services": "Sentinel Node mapping, Enhanced recovery protocols",
+      "doctors": [
+        {
+          "name": "Leena N",
+          "dept": "Gynecologic Oncology Division",
+          "url": "https://img.freepik.com/free-photo/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture_409827-254.jpg?w=996&t=st=1699859428~exp=1699860028~hmac=da5cd964412d72afd52e36acd4ddbf281384a4b95bc5c10feb1e0063f58e9e08",
+          "edu": "MBBS,MS",
+          "id": 2
+        }
+      ],
+      "id": 7
+    },
+    {
+      "departmentname": "Adult cardiology",
+      "description": "The cardiology team at the centre offers specialized treatment for cardiovascular diseases and has a 24/7 emergency response team with a mobile ICU to quickly handle emergencies. The centre is equipped to provide comprehensive and multidisciplinary medical care for patients with complex conditions .",
+      "contact": "0456-2374892",
+      "services": "Outpatient Services  ,Emergency Response Team and Heart Station",
+      "doctors": [
+        {
+          "name": "Ajith T",
+          "dept": "Adult cardiology",
+          "url": "https://img.freepik.com/free-photo/smiling-touching-arms-crossed-room-hospital_1134-799.jpg?w=996&t=st=1699859480~exp=1699860080~hmac=4f7263f385cc28bd4c1a5e15e095fa088ef77816360fcb6fbc106e5a20d0be7f",
+          "edu": "MBBS,PGDGM",
+          "id": 3
+        }
+      ],
+      "id": 8
+    },
+    {
+      "departmentname": "Dermatology",
+      "description": "The Department of Dermatology at Elite Care Clinic offers procedures and services, both investigative and curative, pertaining to general dermatology, cosmetic dermatology and venereology. Comprehensive consultation and treatment is provided for both outpatients and in-patients covering all dermatological conditions including general dermatology, sexually transmissible diseases, vitiligo, leprosy, and psoriasis.",
+      "contact": "0478-2382913",
+      "services": "Acne Scars and Treatments ,Anti-aging solutions ,Laser Hair Removal ",
+      "doctors": [
+        {
+          "name": "Jhon Peter",
+          "dept": "Dermatology",
+          "url": "https://img.freepik.com/free-photo/smiling-doctor-with-strethoscope-isolated-grey_651396-974.jpg?w=996&t=st=1699856301~exp=1699856901~hmac=fce22c8e5569c59477e379068090bc58e6eefd243d2cba3ab563637f2e17ffbc",
+          "edu": "MBBS,MD",
+          "id": 1
+        }
+      ],
+      "id": 9
+    }
+  ],
+  "appointment": [
+    {
+      "fname": "Malavika",
+      "lname": "Venugopal",
+      "age": "22",
+      "phone": "09072554506",
+      "address": "Chaithanya\nMain Road Chelakkara",
+      "gender": "Male",
+      "date": "2023-11-08",
+      "time": "10.00-14.00",
+      "dept": "Dermatology",
+      "emailid": "malavikavenu914@gmail.com",
+      "pincode": "680586",
+      "id": 1
+    },
+    {
+      "fname": "Athira",
+      "lname": "Venugopal",
+      "age": "20",
+      "phone": "7902717449",
+      "address": "Chaithanya\nMain Road Chelakkara",
+      "gender": "Female",
+      "date": "2023-04-02",
+      "time": "10.00-14.00",
+      "dept": "Dermatology",
+      "emailid": "malavikavenu914@gmail.com",
+      "pincode": "680586",
+      "id": 2
+    }
+  ]
+}
